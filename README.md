@@ -20,7 +20,6 @@
 
 I build practical software for people in Bangladesh — money transfer systems, weather and flood alerts, retail point-of-sale, and safety tools. Most of my work ships end-to-end: I design it, build the backend, write the app, and run the servers.
 
-- **Now building** — a GBP→BDT remittance platform and a Sylheti-language flood alert system
 - **Working with** — Kotlin/Compose on Android, Next.js and FastAPI on the web, Postgres underneath
 - **Interested in** — offline-first apps, Bangla-language interfaces, and tools that work on slow networks
 - **Reach me** — [aliamransumon@gmail.com](mailto:aliamransumon@gmail.com)
@@ -115,16 +114,7 @@ A prayer-direction compass that stays accurate without a network connection.
 [Privacy policy](https://aliamransumon-syl.github.io/my-qibla-privacy/) · *Private repo*
 
 </td>
-<td width="50%" valign="top">
-
-### Retail & Remittance Systems
-A GBP→BDT remittance platform with 12k bank branches, plus a point-of-sale and storefront for a clothing retailer.
-
-`Next.js` `Prisma` `PostgreSQL`
-
-*Private · In production*
-
-</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
